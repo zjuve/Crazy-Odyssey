@@ -8,4 +8,4 @@ Fusion: Sistema que permite aumentar los stats del equipo hasta en un 50%. Se ut
 <img src="https://github.com/zjuve/Crazy-Odyssey/blob/main/Crazy Odyssey - PNGS/fusion.png">
 
 Soul infusion: Subsistema que aumenta drasticamente los stats del equipo. Consiste en utilizar equipo de hasta el mismo tier para aumentar stats. Además, permite reducir la chance de dropeo durante pvp. 12 tiers.
-
+<img src="https://github.com/zjuve/Crazy-Odyssey/blob/main/Crazy Odyssey - PNGS/soulinfu.png">
