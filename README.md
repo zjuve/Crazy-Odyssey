@@ -89,7 +89,7 @@ You can click on each one to read a more detailed guide.
 
 # 1. Equipment
 
-### A. Basic Gear
+### A. [Basic Gear](https://github.com/zjuve/Crazy-Odyssey/blob/main/Guides/Gear.md)
 
 Basic Gear consists of **10 equipment slots**, each of which provides different stats.
 
