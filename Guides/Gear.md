@@ -2,4 +2,4 @@ Al principio del juego, y durante el early game no te preocupes demasiado por el
 El equipo basico tiene diversas mecanicas para ser mejorado:
 
 Encantamiento: Subsistema que consiste en utilizar Enhance Stones, las cuales se obtienen minando, para encantar y aumentar los stats del aquipo. Hay muchisimos tier de encantamiento.
-<img src="./Crazy-Odyssey/blob/main/Crazy%20Odyssey%20-%20PNGS/EnchantSystem.png" width="700">
+<img src="https://github.com/zjuve/Crazy-Odyssey/blob/main/Crazy Odyssey - PNGS/EnchantSystem.png">
