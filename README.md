@@ -75,7 +75,7 @@ You can click on each one to read a more detailed guide.
 
 | # | System                                    | Description                                           |
 | - | ----------------------------------------- | ----------------------------------------------------- |
-| 1 | [Equipment](./equipment/)                 | Main equipment and gear progression                   |
+| 1 | [Equipment](https://github.com/zjuve/Crazy-Odyssey/blob/main/Guides/Equipments.md)                 | Main equipment and gear progression                   |
 | 2 | [Secondary Systems](./secondary-systems/) | Seals, Wings and Four Symbols                         |
 | 3 | [Divine Might](./divine-might/)           | Achievement-based progression and stat bonuses        |
 | 4 | [Bestiary](./bestiary/)                   | Monster cards that provide stats and special bonuses  |
